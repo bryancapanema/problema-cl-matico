@@ -1,0 +1,56 @@
+
+.capanema{
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+}
+
+h2{
+    text-align: center;
+    color: rgb(181, 185, 188);
+  }
+
+p{
+  text-align: center;
+    color:rgb(131, 133, 134);
+    margin: 20px 180px;
+}
+
+.img-capanema{
+  transition: all 1s ease-in-out;
+  width: 50px;
+  border-radius: 50px;
+}
+
+.img-capanema:hover{
+  transition: all 1s ease-in-out;
+  transform: scale(1.0);
+  width: 600px;
+  border-radius: 50px;
+}
+
+.seta{
+  margin: 0px 0px 5px 0px;
+  width: 20px;
+}
+
+.seta{
+  opacity: 0%;
+}
+
+
+.txt{
+opacity: 15%;
+  
+}
+
+h4{ 
+  justify-content: flex-end;
+  gap: 20px;                      
+  background-color: #00ccffa8;
+  border: 2px solid #00ccffa8;
+  border-radius: 15px;
+  padding: 10px 25px;
+  width: fit-content;
+  margin-left: auto;
+  cursor: pointer;
+}
